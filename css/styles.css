@@ -1,3 +1,9 @@
 .definition {
   display: none;
+  cursor: pointer;
 }
+
+.term {
+  cursor: pointer;
+}
+
